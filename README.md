@@ -1,2 +1,3 @@
 # Simple_Proccess_Killer
-# Test
+Simple EXE Process Killer.
+<img src="https://i.imgur.com/7jupAvR.png"/>
