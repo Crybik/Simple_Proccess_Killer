@@ -1,0 +1,10 @@
+C:\Users\s\source\repos\pkiller\pkiller\bin\Debug\pkiller.exe.config
+C:\Users\s\source\repos\pkiller\pkiller\bin\Debug\pkiller.exe
+C:\Users\s\source\repos\pkiller\pkiller\bin\Debug\pkiller.pdb
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.csprojAssemblyReference.cache
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.Properties.Resources.resources
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.csproj.GenerateResource.cache
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.exe
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.pdb
+C:\Users\s\source\repos\pkiller\pkiller\obj\Debug\pkiller.Pkiller.resources
